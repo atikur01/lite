@@ -1,1 +1,1 @@
-# lite
+[![Download](https://img.shields.io/badge/Download-File-green?style=for-the-badge&logo=appwrite)](https://sgp.cloud.appwrite.io/v1/storage/buckets/6948e1aa003338b5826f/files/694a33f4000a22a8d9b9/download?project=691007da0032a3d42080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbklkIjoiNjk0YTM0NWVkZDE4OTJiZmNlNTQiLCJyZXNvdXJjZUlkIjoiNjk0OGUxYWEwMDMzMzhiNTgyNmY6Njk0YTMzZjQwMDBhMjJhOGQ5YjkiLCJyZXNvdXJjZVR5cGUiOiJmaWxlcyIsInJlc291cmNlSW50ZXJuYWxJZCI6IjE2MDM6MiIsImlhdCI6MTc2NjQ3MDc1MH0.p52Pg3VlIPNCnoxfCYoNbWuXh_MfMmlVBYNixQ-XT3M)
